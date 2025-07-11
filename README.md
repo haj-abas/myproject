@@ -7,4 +7,4 @@ eradt
 
 3.y paragraf jdid
 
-4.virayesh tvst shakhe asli
+4.virayesh tvst shakhe conflict
