@@ -1,6 +1,8 @@
 ### proje testi git
-nmidoonm chi bnvism 
+1.nmidoonm chi bnvism 
 fk kn y alame chrt prt nvshtm
 eradt
 
-chrt prt jdid
+2.chrt prt jdid
+
+3.y paragraf jdid
