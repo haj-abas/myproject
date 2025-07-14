@@ -12,5 +12,3 @@ eradt
 5.virayseh bad conflict
 
 6.taghiray bdon commit
-
-7.stash bazi
